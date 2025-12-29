@@ -26,11 +26,11 @@ Actively seeking **Junior SOC Analyst / Cyber Security Analyst** roles across th
 
 - 🔍 **LLM Deception Detection in Terms of Service**  
   MSc research project evaluating open-source Large Language Models to detect deceptive and potentially abusive clauses in Terms of Service documents, contributing to AI misuse and security transparency research.  
-  👉 https://github.com/AA2452k/llm-deception-detection-tos *(rename repo if needed)*
+  👉 https://github.com/AA2452k/llm-deception-detection-tos 
 
 - 📄 **Condensify – AI-Driven Document Analysis Tool**  
   Full-stack web application that analyses documents and generates summaries and structured outputs using NLP and machine learning techniques.  
-  👉 https://github.com/AA2452k/condensify-document-analysis *(rename repo if needed)*
+  👉 https://github.com/AA2452k/condensify-document-analysis
 
 ---
 
