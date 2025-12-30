@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I’m Abdalla Alasmar
 
-🎯 **Graduate Cyber Security Analyst (SOC / Blue Team)**  
+🎯 **Graduate Cyber Security  (SOC)**  
 MSc Cyber Security (Distinction) and First-Class BSc Computer Science graduate with a strong foundation in security monitoring, incident response, threat analysis, and digital forensics.  
 Actively seeking **Junior SOC Analyst / Cyber Security Analyst** roles across the UK.
 
